@@ -19,6 +19,5 @@ override.tf.json
 #addition key
 day17_key
 day17_key.pub
-*.tfvars
 week2.tf
 .terraform.lock.hcl
